@@ -6,6 +6,9 @@ can help with speed issues for your computer. Also, if you couldnt tell, this wo
 If you think this is malware, then you can check the batch file
 if you want to. It is safe and completely free to use!
 
+This is also my first upload on here, but i'm planning
+on making more stupid stuff and uploading it to here :D
+
 ## **How to download and use:**
 
 1. Download the file from the **releases** tab.
