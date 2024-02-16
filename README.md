@@ -6,6 +6,10 @@ can help with speed issues for your computer. Also, if you couldnt tell, this wo
 If you think this is malware, then you can check the batch file
 if you want to. It is 100% safe and it works well!
 
-## **CLICK THE RELEASES TAB TO DOWNLOAD!**
+## **How to download and use:**
+
+1. Download the file from the **releases** tab.
+2. Run the file as administrator
+3. Type the number you want and let it do its work!
 
 *Hope you enjoy!*
